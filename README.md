@@ -12,13 +12,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat e feito por Augusto.
 </p>
 
 <p align="center">
-  <img alt="License" src="#">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="#" width="100%">
+  <img alt="foto do site" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
