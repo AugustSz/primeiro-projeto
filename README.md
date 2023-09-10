@@ -1,7 +1,7 @@
 <h1 align="center">DevLinks </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo e gratuito, promovido pela Rocketseat e feito por Augusto.
 </p>
 
 <p align="center">
@@ -28,10 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Projeto que visa promover ao aluno seu primeiro site
 
 ## 🔖 Layout
 
